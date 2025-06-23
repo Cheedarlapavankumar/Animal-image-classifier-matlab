@@ -1,7 +1,7 @@
 clc; clear; close all;
 
 %% Step 1: Enhanced Dataset Setup
-datasetPath = 'C:\archive\raw-img';
+datasetPath = C:/your_dataset_folder/raw-img';
 tic; % Start timing
 
 % Load dataset with labels from folders
