@@ -85,7 +85,7 @@ Animal-Image-Classifier/
 
 ## Instructions to Run
 
-1. Place your dataset in `C:\archive\raw-img` with subfolders: `cane`, `elefante`, `farfalla`.
+1. Place your dataset in `C:/your_dataset_folder/raw-img` with subfolders: `cane`, `elefante`, `farfalla`.
 2. Run the training script:
 
 ```matlab
