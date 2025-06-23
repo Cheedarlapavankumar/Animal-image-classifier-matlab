@@ -1,5 +1,3 @@
-clc; clear; close all;
-
 %% === Step 1: Load the trained model ===
 load('ResNet18_AnimalClassifier_Optimized.mat');  % loads 'trainedNet'
 
