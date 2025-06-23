@@ -1,5 +1,3 @@
-clc; clear; close all;
-
 %% Step 1: Enhanced Dataset Setup
 datasetPath = C:/your_dataset_folder/raw-img';
 tic; % Start timing
