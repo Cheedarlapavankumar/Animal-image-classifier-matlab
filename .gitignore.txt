@@ -1,0 +1,16 @@
+# Ignore dataset folder and raw images
+data/*
+*.jpg
+*.jpeg
+*.png
+
+# Allow evaluation result images
+!SamplePredictions/*.png
+
+# Ignore large binary files
+*.mat
+
+# Ignore temp/OS/editor files
+.DS_Store
+*.asv
+*.m~
